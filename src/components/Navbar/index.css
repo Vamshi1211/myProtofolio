@@ -1,0 +1,68 @@
+.navbar-bg-container {
+  background-color: #191a1d;
+  background-size: cover;
+  height: 100vh;
+}
+
+.nav-link-item {
+  cursor: pointer;
+  margin: 10px;
+}
+.nav-link-item:hover {
+  transform: scale(1.1);
+}
+
+#navbar-link-items {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.navbar-icon {
+  height: 60px;
+  width: 50px;
+  border-color: #4b6cc1;
+  color: #ffffff !important;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 30px;
+  border-width: 2px;
+  border-style: solid;
+  text-align: center;
+}
+
+.navbar-image {
+  width: 280px;
+  margin-bottom: 10px;
+}
+
+.navbar-heading {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 40px;
+  font-weight: 300;
+}
+
+.navbar-paragraph {
+  color: #9aa5b1;
+  font-family: "Roboto";
+  font-size: 24px;
+}
+
+.typed-cursor.typed-cursor--blink {
+  animation: 0.7s infinite;
+}
+
+.navbar-button {
+  color: #ffffff;
+  background-color: #4b6cc1;
+  font-family: "Roboto";
+  font-size: 16px;
+  height: 35px;
+  width: 120px;
+  border-width: 0px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
